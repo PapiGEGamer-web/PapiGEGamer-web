@@ -37,3 +37,4 @@
 
 <h3 align="left">Discord:</h3>
 <p align="center"><a href="https://www.fnlb.net/discord"><img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner2"></a></p>
+<p align="center"><a href="https://discord.gg/valorantesp"><img src="https://cdn.discordapp.com/attachments/957039713913557052/1289097174533148774/image.png?ex=66f794cc&is=66f6434c&hm=9db5afe4972d0e7d5e911f2a06c0a3cc1d242cf6bc5a4b81dabb85c5400fdd5d&"></a></p>
