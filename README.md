@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fnlb.net/discord" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
+<a href="https://fnlb.net/discord" target="blank"><img align="center" src="[https://skillicons.dev/icons?i=discord](https://cdn.discordapp.com/attachments/957039713913557052/1289103326394449930/7da9b34797073575257f352d4eec310d.png?ex=66f79a87&is=66f64907&hm=4b0dcae3e6ddb883adcd2177ef320943e2f312a5c524bc5e9cb590c3b791d619&)" alt="Discord" height="45" /></a>
 <a href="mailto:admin@pabloschefer.es" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 <a href="https://discord.gg/valorantesp" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/957039713913557052/1289102882611925032/a_f5854ad915a4230796b49744a4788f4e.png?ex=66f79a1d&is=66f6489d&hm=68492c9c107f8cc3189129157475e65a23f26e83822d8de781e96e5aa7eef533&" alt="Discord" height="45" /></a>
 
