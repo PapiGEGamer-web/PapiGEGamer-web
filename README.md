@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#ff0067}{I'm\ PapiGEGamer}$
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#DE59E6}{I'm\ PapiGEGamer}$
 <img src="https://cdn.discordapp.com/attachments/957039713913557052/1289101702016012288/im1age.png?ex=66f79904&is=66f64784&hm=8318ee4b6759966d5fecad7edb86a29f8924d1017d1bf9bb69023d05a987105b&" width="30" style="border-radius: 50%" /></h1>
 <img src="https://cdn.discordapp.com/attachments/957039713913557052/1289102028387385404/ba4a4de964d4ace75399c34d6dcc6c444eb03c3923d83f5057133bb8a6f25a03.gif?ex=66f79951&is=66f647d1&hm=cc76fcadb549d376991b989bb31d4094e9581a7b9a12eb96b59691d704f1c330&" width="100%"  />
 <h3 align="center">a Full-Stack Web & Mobile Developer, Cybersecurity Analyst and OSS Maintainer.</h3>
@@ -25,7 +25,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnfAngel&show_icons=true&count_private=true&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfAngel&count_private=true&layout=compact&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222" height="180">
 </p>
 
